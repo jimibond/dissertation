@@ -21,7 +21,7 @@ intents.json
 intents_question.txt  
 intents_answers.txt
 
-### Python file to read jsopn file and create questiosn/answers
+### Python file to read json file and create questions & answers
 
 intents_question.py
 
