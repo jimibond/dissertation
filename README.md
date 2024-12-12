@@ -12,11 +12,11 @@ Need to install
 
 nltk - pip install --user -U nltk
 
-### json file of question/answers for training
+### json file of question & answers for training
 
 intents.json
 
-### Question answer files for accuracy test
+### Question & answer files for accuracy test. Answers from chatbot
 
 intents_question.txt  
 intents_answers.txt
@@ -39,23 +39,23 @@ athletes.txt
 coaches.txt  
 medalistes.txt
 
-### Original csv files used to generate questions/answers
+### Original csv files used to generate questions & answers
 
 athletes_cut_down.csv  
 coaches_cut_down.csv  
 medallists.csv
 
-### Python files to convert csv file into questions/answers
+### Python files to convert csv file into questions & answers
 
 athletes_conversion.py  
 coach_conversion.py  
 medallists_conversion.py
 
-### Python file to convert question/answers into two files for accuracy testing
+### Python file to convert question & answers into two files for accuracy testing
 
 olympic_test.py
 
-### Question/answer files for accuracy testing
+### Question & answer files for accuracy testing
 
 athletes_answer.txt  
 athletes_question.txt
